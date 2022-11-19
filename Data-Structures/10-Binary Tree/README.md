@@ -6,6 +6,8 @@ Tree represents the nodes connected by edges. It is a non-linear data structure.
 - Every node other than the root is associated with one parent node.
 - Each node can have an arbiatry number of chid node.
 
+![Untitled](./binaryTree.png)
+
 ```python
 class Node:
    def __init__(self, data):

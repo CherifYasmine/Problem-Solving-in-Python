@@ -5,6 +5,7 @@ A Binary Search Tree (BST) is a tree in which all the nodes follow the below-men
 ```
 left_subtree (keys)  ≤  node (key)  ≤  right_subtree (keys)
 ```
+![Untitled](./SearchTree.png)
 
 ****Search for a value in a B-tree****
 
